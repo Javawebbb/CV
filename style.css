@@ -270,8 +270,7 @@ span{
     transform: scale(1.1);
 }
 .portfolio img{
-    width: 400px;
-    height: 250px;
+    height: 270px;
 }
 .portfolio-layer{
     position: absolute;
